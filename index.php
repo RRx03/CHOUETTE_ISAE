@@ -16,20 +16,6 @@
         </ul>
     </nav>
     <main>
-        <?php
-        if (isset($_GET['page'])) {
-            $page = $_GET['page'];
-            if ($page == 'about') {
-                include('about.php');
-            } elseif ($page == 'contact') {
-                include('contact.php');
-            } else {
-                include('home.php');
-            }
-        } else {
-            include('home.php');
-        }
-        ?>
     </main>
     <footer>
         <p>&copy; 2020 La Chouette</p>

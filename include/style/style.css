@@ -1,1 +1,14 @@
 
+*{
+  font-size: 10px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #f1f1f1;
+}
