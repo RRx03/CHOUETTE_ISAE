@@ -19,7 +19,7 @@ body{
 header{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   background-color: #040E89;
   font-size: 3em;
