@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>La Chouette</h1>
+        La Chouette
     </header>
     <nav>
         <ul>
