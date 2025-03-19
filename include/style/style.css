@@ -26,8 +26,8 @@ header{
   justify-content: center;
   align-items: center;
   background-color: #040E89;
-  font-size: 3em;
-  text-transform: uppercase;
+  font-size: 5em;
+  text-transform: capitalize;
   font-family: Montserrat;
   color: white;
   width: 100%;
